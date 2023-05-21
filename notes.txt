@@ -1,0 +1,23 @@
+Jetson is the platform to run ML/AI?CV/Robotic activites
+
+Jetpack is the SDK provided to do all the work
+NVIDIA TAO provides pretrained models
+   find open source version
+
+
+Robotcs Relies on ROS(Robot Operating System). Includes tools and libraries to build robots
+   Nvidia Isaac might be good for ROS
+
+PLAN (Dec 2023)
+1. Test
+2. POCs and decide on dev practice
+3. Get Jetbot working
+   a. add second camera
+   b. add another sensor
+4. Design arm
+5. Buy components
+6. Build
+
+
+Currently using Jetson Nano Dev Kit Image with JetPack 4.6.1.
+https://developer.nvidia.com/embedded/jetpack
